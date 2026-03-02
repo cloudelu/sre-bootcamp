@@ -1,4 +1,4 @@
-# SRE Bootcamp (40 Hours | 8 Weeks)
+# SRE Bootcamp with career support (40 Hours | 8 Weeks)
 
 ## Program Architecture
 - Mode: Virtual
@@ -10,6 +10,16 @@
 - Modality: Theory + Case Studies + Labs
 - Assessment: Labs + Weekly Toil Challenges + Capstone Project
 - Outcome: SRE Practitioner 
+
+## Career Support
+- LinkedIn positioning & personal brand
+- Strategic community participation
+- Conference exposure & networking
+- Building SRE credibility through content
+- Presenting talks / papers
+- Proof-of-work portfolio
+- Alumni + mentor connect
+- Job search strategy for SRE pivot
 
 ## Theme Sequencing Rationale
 Logical progression:
