@@ -1,6 +1,6 @@
 # SRE Bootcamp with career support (40 Hours | 8 Weeks)
 
-## Program Architecture
+## Program Delivery
 - Mode: Virtual
 - Weeks: 8
 - Target Audience: Devops Engineer, System Admin, Network Admin, Automation Engineer, SDE, Cloud Engineer, Performance Engineer, Application Support 
@@ -12,15 +12,25 @@
 - Assessment: Labs + Weekly Toil Challenges + Capstone Project
 - Outcome: SRE Practitioner 
 
+## SRE Capability
+1. Foundation + Service Levels
+2. Observability
+3. Reliability Engineering
+4. Release & Change Management
+5. Incident & Problem Management
+6. Toil Reduction
+7. Cost & Efficiency Engineering
+8. Developer Experience Platform + Cultural Reliability
+  
 ## Career Support
-- LinkedIn positioning & personal brand
-- Strategic community participation
-- Conference exposure & networking
-- Building SRE credibility through content
-- Presenting talks / papers
-- Proof-of-work portfolio
-- Alumni + mentor connect
-- Job search strategy for SRE pivot
+1. LinkedIn positioning & personal brand
+2. Strategic community participation
+3. Conference exposure & networking
+4. Building SRE credibility through content
+5. Presenting talks / papers
+6. Proof-of-work portfolio
+7. Alumni + mentor connect
+8. Job search strategy for SRE pivot
 
 ## Theme Sequencing Rationale
 Logical progression:
