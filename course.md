@@ -7,7 +7,7 @@
 - Hours: 40 total
   - Weekday: 1 hrs × 1 day/wk → 8 hrs
   - Saturday: 1 hrs × 1 day/wk → 8 hrs
-  - Self-study and Handson: 3 hrs × 1 day/wk → 24 
+  - Self-study and Handson: 3 hrs × 1 day/wk → 24 hrs
 - Modality: Theory + Case Studies + Labs
 - Assessment: Labs + Weekly Toil Challenges + Capstone Project
 - Outcome: SRE Practitioner 
