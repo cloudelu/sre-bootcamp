@@ -1,12 +1,12 @@
-# SRE Bootcamp with career support (40 Hours | 8 Weeks)
+# SRE Bootcamp with career support (8 Weeks | 40 Hours)
 
 ## Program Delivery
 - Mode: Virtual
 - Weeks: 8
 - Target Audience: Devops Engineer, System Admin, Network Admin, Automation Engineer, SDE, Cloud Engineer, Performance Engineer, Application Support 
 - Hours: 40 total
-  - Weekday: 1 hrs × 1 day/wk → 8 hrs
-  - Saturday: 1 hrs × 1 day/wk → 8 hrs
+  - Weekday (Theory): 1 hrs × 1 day/wk → 8 hrs 
+  - Saturday (Q&A): 1 hrs × 1 day/wk → 8 hrs
   - Self-study and Hands-on: 3 hrs × 1 day/wk → 24 hrs
 - Modality: Theory + Case Studies + Labs
 - Assessment: Labs + Weekly Toil Challenges + Capstone Project
