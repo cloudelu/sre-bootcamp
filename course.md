@@ -3,10 +3,11 @@
 ## Program Architecture
 - Mode: Virtual
 - Weeks: 8
-- Target Audience: Devops Engineer, System Admin, Network Admin, Automation Engineer, SDE, Cloud Engineer, Performance Engineer 
+- Target Audience: Devops Engineer, System Admin, Network Admin, Automation Engineer, SDE, Cloud Engineer, Performance Engineer, Application Support 
 - Hours: 40 total
-  - Weekday: 2 hrs × 1 day/wk → 16 hrs
-  - Saturday: 3 hrs × 1 day/wk → 24 hrs
+  - Weekday: 1 hrs × 1 day/wk → 8 hrs
+  - Saturday: 1 hrs × 1 day/wk → 8 hrs
+  - Self-study and Handson: 3 hrs × 1 day/wk → 24 
 - Modality: Theory + Case Studies + Labs
 - Assessment: Labs + Weekly Toil Challenges + Capstone Project
 - Outcome: SRE Practitioner 
