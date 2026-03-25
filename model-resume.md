@@ -1,4 +1,4 @@
-# Senior Site Reliability Engineer (SRE) | Kubernetes | Observability
+# Senior Site Reliability Engineer (SRE) | Kubernetes | Observability | FinOps
 
 📍 Open to Remote / Relocation  
 📧 example@email.com  
@@ -13,6 +13,19 @@ Senior Site Reliability Engineer with 15+ years of experience designing and oper
 Expert in observability (OpenTelemetry), Kubernetes scaling, incident management, and cloud cost optimization (FinOps). Proven track record of improving system reliability (MTTR ↓), infrastructure efficiency, and developer productivity through automation and SRE best practices.
 
 Hands-on experience with Prometheus, Grafana, Sumo Logic, ELK, KEDA, Karpenter, Terraform, and modern cloud-native architectures.
+
+---
+
+## 🌟 Career Highlights (CRITICAL FOR SHORTLISTING)
+
+- Reduced **MTTR by 25%** via centralized observability using **OpenTelemetry + Sumo Logic** across 200+ services  
+- Reduced **cloud costs by 30–40%** using **KEDA-based auto-scaling and workload optimization**  
+- Improved **Kubernetes node utilization by 35%** using **Karpenter dynamic provisioning**  
+- Enabled **<5 min observability onboarding** via CI/CD-based OTEL auto-instrumentation  
+- Reduced **critical vulnerability SLA from 14 days to <72 hours** using **Nessus + Trivy pipelines**  
+- Delivered **zero-downtime migration** of **150+ workloads** to Azure  
+- Built **enterprise observability platform** covering logs, metrics, and traces across multi-cloud  
+- Designed **event-driven scaling systems using Kafka lag**, improving spike handling and reducing over-provisioning  
 
 ---
 
@@ -38,17 +51,6 @@ Nessus, Trivy, Vulnerability Management
 
 **FinOps**  
 Cloud Cost Optimization, Resource Efficiency  
-
----
-
-## 📊 Selected Impact
-
-- Reduced MTTR by 25% via centralized observability using OpenTelemetry + Sumo Logic across 200+ services  
-- Reduced cloud costs by 30–40% using KEDA-based auto-scaling and workload optimization  
-- Improved Kubernetes node utilization by 35% using Karpenter dynamic provisioning  
-- Enabled <5 min observability onboarding via CI/CD-based OTEL auto-instrumentation  
-- Reduced critical vulnerability SLA from 14 days to <72 hours using Nessus + Trivy pipelines  
-- Delivered zero-downtime migration of 150+ workloads to Azure  
 
 ---
 
