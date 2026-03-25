@@ -1,14 +1,10 @@
-# LinkedIn Optimized Profile – SRE / DevOps / FinOps
+# LinkedIn Optimized Profile – SRE
 
 ---
 
 ## 🧠 Headline Options
 
-**Option 1 (Balanced)**
 Senior Site Reliability Engineer (SRE) | Kubernetes | AWS | Observability | FinOps | Reducing MTTR & Cloud Costs
-
-**Option 2 (Aggressive / US Market)**
-SRE | Kubernetes | AWS | OpenTelemetry | Scaling Distributed Systems | MTTR ↓ 25% | Cloud Cost ↓ 40%
 
 ---
 
