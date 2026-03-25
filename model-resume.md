@@ -64,7 +64,7 @@ Cloud Cost Optimization, Resource Efficiency
   - Focus: Designing cloud and hybrid solutions on Azure  
   - Skills: Azure Compute, Networking, Identity, Security, Cost Optimization  
 
---
+---
 
 ## 💼 Experience
 
