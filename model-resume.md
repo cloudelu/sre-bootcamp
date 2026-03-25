@@ -1,4 +1,4 @@
-# Senior Site Reliability Engineer (SRE) | Kubernetes | Observability | FinOps
+# Senior Site Reliability Engineer (SRE) | Kubernetes | Observability
 
 📍 Open to Remote / Relocation  
 📧 example@email.com  
@@ -53,6 +53,18 @@ Nessus, Trivy, Vulnerability Management
 Cloud Cost Optimization, Resource Efficiency  
 
 ---
+
+## 📜 Certifications
+
+- **AWS Certified Solutions Architect – Associate**
+  - Focus: Designing scalable, highly available, and cost-efficient systems on AWS  
+  - Skills: VPC, EC2, S3, RDS, IAM, Well-Architected Framework  
+
+- **Microsoft Certified: Azure Solutions Architect Expert**
+  - Focus: Designing cloud and hybrid solutions on Azure  
+  - Skills: Azure Compute, Networking, Identity, Security, Cost Optimization  
+
+--
 
 ## 💼 Experience
 
