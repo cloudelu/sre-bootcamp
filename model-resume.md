@@ -3,6 +3,7 @@
 📍 Chennai, India, Open to Remote
 📧 example@email.com  
 🔗 linkedin.com/in/example  
+📱 +91 12345 67890
 
 ---
 
