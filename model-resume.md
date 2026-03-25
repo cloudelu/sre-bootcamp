@@ -8,11 +8,11 @@
 
 ## 🚀 Summary
 
-Senior Site Reliability Engineer with 15+ years of experience designing and operating large-scale distributed systems across AWS, Azure, and GCP.
+Senior Site Reliability Engineer with 15+ years of experience designing and operating **large-scale distributed systems** across AWS, Azure, and GCP.
 
-Expert in observability (OpenTelemetry), Kubernetes scaling, incident management, and cloud cost optimization (FinOps). Proven track record of improving system reliability (MTTR ↓), infrastructure efficiency, and developer productivity through automation and SRE best practices.
+Expert in **observability (OpenTelemetry), Kubernetes scaling, incident management, and cloud cost optimization (FinOps)**. Proven track record of improving **system reliability (MTTR ↓), infrastructure efficiency, and developer productivity** through automation and SRE best practices.
 
-Hands-on experience with Prometheus, Grafana, Sumo Logic, ELK, KEDA, Karpenter, Terraform, and modern cloud-native architectures.
+Hands-on experience with **Prometheus, Grafana, Sumo Logic, ELK, KEDA, Karpenter, Terraform,** and modern cloud-native architectures.
 
 ---
 
