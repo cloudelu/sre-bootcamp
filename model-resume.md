@@ -1,6 +1,6 @@
 # Senior Site Reliability Engineer (SRE) | Kubernetes | Observability
 
-📍 Open to Remote / Relocation  
+📍 Chennai, India, Open to Remote
 📧 example@email.com  
 🔗 linkedin.com/in/example  
 
